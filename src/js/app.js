@@ -25,6 +25,4 @@ const obj = {
   defence: 40,
 };
 
-console.log(orderByProps(obj, ["level", "health"]));
-
 export default orderByProps
