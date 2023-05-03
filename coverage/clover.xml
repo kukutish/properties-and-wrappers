@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1683122137600" clover="3.2.0">
-  <project timestamp="1683122137600" name="All files">
-    <metrics statements="19" coveredstatements="19" conditionals="6" coveredconditionals="6" methods="5" coveredmethods="5" elements="30" coveredelements="30" complexity="0" loc="19" ncloc="19" packages="1" files="2" classes="2"/>
+<coverage generated="1683141530671" clover="3.2.0">
+  <project timestamp="1683141530672" name="All files">
+    <metrics statements="30" coveredstatements="30" conditionals="6" coveredconditionals="6" methods="6" coveredmethods="6" elements="42" coveredelements="42" complexity="0" loc="30" ncloc="30" packages="1" files="3" classes="3"/>
     <file name="app.js" path="/Users/nastakukutina/Documents/workspace/properties-and-wrappers/src/js/app.js">
       <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
       <line num="2" count="1" type="stmt"/>
@@ -17,6 +17,20 @@
       <line num="16" count="4" type="cond" truecount="2" falsecount="0"/>
       <line num="17" count="1" type="stmt"/>
       <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="destructuring-hard.js" path="/Users/nastakukutina/Documents/workspace/properties-and-wrappers/src/js/destructuring-hard.js">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="30" count="2" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
     </file>
     <file name="destructuring.js" path="/Users/nastakukutina/Documents/workspace/properties-and-wrappers/src/js/destructuring.js">
       <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
